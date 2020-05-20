@@ -27,7 +27,7 @@ See `main.py` to run with other options.
 ## Citation
 If you use this code for your work, please cite the following:
 ```
-@inproceedings{lee2018snip,
+@inproceedings{
   title={Single-shot pruning van convolutionele netwerken},
   author={Puype, Jurriën},
   school={University of Ghent},
